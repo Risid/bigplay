@@ -8,7 +8,7 @@
 
 ## Changes
 
-  In order to meet the needs of the curriculum design:
+  In order to meet the needs of the TYUT curriculum design:
 
   1. modify the shortcut keys.
 ```
@@ -23,12 +23,12 @@
     KEY_GAININCR = 'i',
 ```
 
-  1. input a playlist file rather than a music file path.
+  2. input a playlist file rather than a music file path.
     `madplay -f`
 
-  2. simplifies the output.
+  3. simplifies the output.
 
-  3. list loop playback is default.
+  4. list loop playback is default.
 
 ## License
 
